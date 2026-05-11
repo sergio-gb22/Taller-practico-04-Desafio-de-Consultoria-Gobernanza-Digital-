@@ -13,14 +13,6 @@
 <img width="802" height="900" alt="Captura" src="images/descarga.png" />
 
 # MATRIZ DE PERMISOS\[1\]
-
-Diseña la matriz de permisos para los siguientes roles, asegurando el **Principio de Mínimo Privilegio**:
-
-* **Administrador:** Acceso total.  
-* **Comercial:** Solo ve sus clientes y presupuestos (Record Rules).  
-* **Operario de Almacén:** Solo ve stock y albaranes de entrada/salida.  
-* **Contable:** Puede mirar facturas pero no puede modificar el stock.
-
 |  | Permisos | Administrador | Comercial | Operario en almacén | Contable |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Ventas/Clientes | C/L/A/B | Sí/Sí/Sí/Sí | Solo Propios | No Acceso | Solo Lectura |
@@ -36,14 +28,9 @@ Diseña la matriz de permisos para los siguientes roles, asegurando el **Princip
 
 # MANUAL DE DESPLIEGUE
 
-## Bloque C: Documentación de Explotación (CE i)
+## Documentación de Explotación
 
-Siguiendo la norma **ISO/IEC 26514**, redacta un breve **Manual de Despliegue** para que el responsable de IT de la empresa pueda levantar el sistema en caso de caída. Debe incluir:
-
-1. El fragmento de *docker-compose.yml* necesario.  
-2. El comando para realizar un backup de la base de datos PostgreSQL.
-
-la norma **ISO/IEC 26514** dicta los requisitos para el diseño y el desarrollo de la documentación que hace el usuario sobre el software como parte de los procesos del ciclo de vida \[2\]
+La norma **ISO/IEC 26514** dicta los requisitos para el diseño y el desarrollo de la documentación que hace el usuario sobre el software como parte de los procesos del ciclo de vida \[2\]
 
 es normal que haya caídas del servidor de la empresa, voy a tratar la recuperación en caso de caidas con un comando de PostgreSQL pg\_dump \-U postgres \-d db12 \> backup.sql 
 
