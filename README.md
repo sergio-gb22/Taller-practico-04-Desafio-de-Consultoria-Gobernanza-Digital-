@@ -84,7 +84,5 @@ El resultado debería de ser el CRM y el centro de base de datos. \[6\]
 \[2\] [https://estandaresti.wordpress.com/2016/12/20/isoiec-265142008/](https://estandaresti.wordpress.com/2016/12/20/isoiec-265142008/)  
 \[3\] [https://www.zoho.com/one/pricing/](https://www.zoho.com/one/pricing/)
 \[4\] [https://www.odoo.com/es\_ES/pricing](https://www.odoo.com/es_ES/pricing)
-
-\[\]\[\]  
 \[5\][https://www.cronomia.com/software/sap-s4-hana](https://www.cronomia.com/software/sap-s4-hana)  
 \[6\] https://docs.google.com/presentation/d/1IfBdJSnPdbwJxgf1Fksk7Jr8ABuNzdg5kqkclc188SE/edit?slide=id.g3d953a33658\_1\_0\#slide=id.g3d953a33658\_1\_0  
