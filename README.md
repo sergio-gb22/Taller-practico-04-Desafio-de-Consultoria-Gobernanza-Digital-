@@ -7,10 +7,10 @@
 |  | Odoo | SAP S/4HANA | Zoho One |
 | :---- | ----- | :---- | :---- |
 | Coste de licencias/suscripción | 648€/usuario \[4\] | 648€/usuario\[5\] | 1332€/usuario \[3\] |
-| Coste de implantación | 4000€ |  |  |
+| Coste de implantación | 4000€ | 4000€ | 4000€ |
 | Coste operativo |  |  |  |
 
-# 
+<img width="802" height="900" alt="Captura" src="images/descarga.png" />
 
 # MATRIZ DE PERMISOS\[1\]
 
