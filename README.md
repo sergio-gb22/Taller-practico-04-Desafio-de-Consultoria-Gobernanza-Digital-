@@ -83,7 +83,6 @@ El resultado debería de ser el CRM y el centro de base de datos. \[6\]
 \[1\] [https://ventor.tech/odoo/odoo-access-rights/](https://ventor.tech/odoo/odoo-access-rights/)  
 \[2\] [https://estandaresti.wordpress.com/2016/12/20/isoiec-265142008/](https://estandaresti.wordpress.com/2016/12/20/isoiec-265142008/)  
 \[3\] [https://www.zoho.com/one/pricing/](https://www.zoho.com/one/pricing/)
-
 \[4\] [https://www.odoo.com/es\_ES/pricing](https://www.odoo.com/es_ES/pricing)
 
 \[\]\[\]  
