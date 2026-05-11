@@ -4,10 +4,9 @@
 
 ## 3 años
 
-|  | Odoo |
-| :---- |
-| Coste de licencias/suscripción | 216€ usuario/mes \[4\] |
-| Coste de implantación | 4000€ |
+*Odoo*
+Coste de licencias/suscripción: 216€ usuario/mes \[4\]
+Coste de implantación: 4000€
 
 <img width="802" height="900" alt="Captura" src="images/descarga.png" />
 
